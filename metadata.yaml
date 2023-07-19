@@ -1,0 +1,31 @@
+_repo: La-chanson-de-la-croisade-contre-les-Albigeois_71204
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Audiau, Jean
+    gutenberg_agent_id: '56117'
+    url: http://www.gutenberg.org/2009/agents/56117
+creator:
+  author:
+    agent_name: Tudèle, Guillaume de
+    gutenberg_agent_id: '56116'
+    url: http://www.gutenberg.org/2009/agents/56116
+description: ''
+gutenberg_issued: '2023-07-16'
+identifiers:
+  gutenberg: '71204'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k5452465p
+pgterms:marc905: 20230428234428tudle
+pgterms:marc906: '1924'
+pgterms:marc907: FR
+production_note: Laurent Vogel (This file was produced from images generously made
+  available by the Bibliothèque nationale de France (BnF/Gallica))
+publication_note: '  $aFrance :$bE. de Boccard, $c1924.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: La chanson de la croisade contre les Albigeois
+url: http://www.gutenberg.org/ebooks/71204
